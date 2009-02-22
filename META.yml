@@ -1,6 +1,6 @@
 --- #YAML:1.0
 name:               Number-Phone-CountryCode
-version:            0.01
+version:            0.02
 abstract:           Country phone dialing prefixes
 author:
     - Michael Schout <mschout@gkg.net>
